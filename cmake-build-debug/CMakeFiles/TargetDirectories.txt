@@ -1,0 +1,4 @@
+C:/Users/Adam/CLionProjects/AIR/cmake-build-debug/CMakeFiles/Airlib_old.dir
+C:/Users/Adam/CLionProjects/AIR/cmake-build-debug/CMakeFiles/AIR.dir
+C:/Users/Adam/CLionProjects/AIR/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Adam/CLionProjects/AIR/cmake-build-debug/CMakeFiles/rebuild_cache.dir
